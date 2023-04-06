@@ -1,0 +1,1 @@
+describe("DELETE /delete/:idUser", () => {});
